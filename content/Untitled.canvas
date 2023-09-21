@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"group","id":"7e37f9418357518b","x":-1720,"y":2000,"width":3640,"height":1920,"label":"World War II"},
+		{"type":"file","file":"02 events/Engineering/1923 - Engineering Experiment Station established.md","id":"e6c97fbc7dba7062","x":-220,"y":-480,"width":400,"height":280},
+		{"type":"file","file":"02 events/Ceramics/1924 - Department of Ceramic Engineering established.md","id":"08ce16ca5ea21233","x":240,"y":-200,"width":400,"height":449},
+		{"type":"file","file":"02 events/Mining/1925 - Department of Mining Engineering established.md","id":"3846f9afc8f275d2","x":720,"y":249,"width":400,"height":340},
+		{"type":"file","file":"02 events/Ceramics/1926 - Ceramics Building built.md","id":"609009c3f92f79b2","x":240,"y":589,"width":400,"height":291},
+		{"type":"file","file":"02 events/Mining/1927 - Department of Mining Engineering dissolved.md","id":"fb2a19a4c9b5667e","x":720,"y":989,"width":400,"height":251},
+		{"type":"file","file":"02 events/Geology/1927 - Department of Geology established.md","id":"e67e0d275db3265a","x":1160,"y":1240,"width":400,"height":251},
+		{"type":"file","file":"02 events/Geology/1935 - Department of Geology renamed.md","id":"b79282e7848b635b","x":1160,"y":1600,"width":400,"height":240},
+		{"type":"file","file":"02 events/Engineering/1944 - A.F. Greaves-Walker joined mining society.md","id":"424aa61921dd6345","x":240,"y":2895,"width":400,"height":280},
+		{"type":"file","file":"02 events/Engineering/1942 - A.F. Greaves-Walker led research development.md","id":"6887b92b5664d7bc","x":240,"y":2506,"width":400,"height":309},
+		{"type":"file","file":"02 events/World/1945 - World War II Ends.md","id":"f1fcb8f154587f54","x":-1640,"y":3608,"width":400,"height":189},
+		{"type":"file","file":"02 events/World/1941 - US Joins WWII.md","id":"0e9fd42623530f5c","x":-1640,"y":2351,"width":400,"height":155},
+		{"type":"file","file":"02 events/World/1939 - World War II Starts.md","id":"1dc0ce92028ad5e0","x":-1640,"y":2080,"width":400,"height":155},
+		{"type":"file","file":"02 events/Engineering/1946 - Engineering Experiment Station renamed.md","id":"31e7abe8a1a99a0e","x":-220,"y":4150,"width":400,"height":411},
+		{"type":"file","file":"02 events/Engineering/1946 - Minerals Research Laboratory opened.md","id":"47f38e4a8d403654","x":1680,"y":4150,"width":400,"height":490},
+		{"type":"file","file":"02 events/Mechanical/1950 - William W. Austin joined faculty.md","id":"39112882b2453403","x":240,"y":4760,"width":400,"height":400},
+		{"type":"file","file":"02 events/Engineering/1951 - Norval W. Conner starts their term as head of Engineering Research Department.md","id":"56cc4f79ad56a7c5","x":-220,"y":5280,"width":400,"height":400},
+		{"type":"file","file":"02 events/Engineering/1954 - Minerals Research Laboratory continued operation.md","id":"01108766225f9041","x":1680,"y":5680,"width":400,"height":110},
+		{"type":"file","file":"02 events/Mineral/1954 - Department of Mineral Industries established.md","id":"78164dd889929fcb","x":1160,"y":5680,"width":400,"height":496},
+		{"type":"file","file":"02 events/Engineering/1945 - Engineering Experiment Station bulletin published.md","id":"27a9b6163983846c","x":-220,"y":3277,"width":400,"height":520}
+	],
+	"edges":[
+		{"id":"ac54f31e86af09af","fromNode":"08ce16ca5ea21233","fromSide":"bottom","toNode":"609009c3f92f79b2","toSide":"top"},
+		{"id":"302b4827f4045577","fromNode":"fb2a19a4c9b5667e","fromSide":"bottom","toNode":"e67e0d275db3265a","toSide":"left"},
+		{"id":"407c353d75c0a66d","fromNode":"3846f9afc8f275d2","fromSide":"bottom","toNode":"fb2a19a4c9b5667e","toSide":"top"},
+		{"id":"b1e0c55c2dd199bf","fromNode":"e67e0d275db3265a","fromSide":"bottom","toNode":"b79282e7848b635b","toSide":"top"},
+		{"id":"79d2b4120e99b9a5","fromNode":"609009c3f92f79b2","fromSide":"bottom","toNode":"6887b92b5664d7bc","toSide":"top"},
+		{"id":"58e8a1bbe087ec96","fromNode":"6887b92b5664d7bc","fromSide":"bottom","toNode":"424aa61921dd6345","toSide":"top"},
+		{"id":"bb5461a5dd564e1e","fromNode":"1dc0ce92028ad5e0","fromSide":"bottom","toNode":"0e9fd42623530f5c","toSide":"top"},
+		{"id":"22d0db8ea53da72c","fromNode":"0e9fd42623530f5c","fromSide":"bottom","toNode":"6887b92b5664d7bc","toSide":"left"},
+		{"id":"bb69d8fd77288b20","fromNode":"0e9fd42623530f5c","fromSide":"bottom","toNode":"f1fcb8f154587f54","toSide":"top"},
+		{"id":"09cd82880ab4c078","fromNode":"e6c97fbc7dba7062","fromSide":"bottom","toNode":"27a9b6163983846c","toSide":"top"},
+		{"id":"af7331feb68f4114","fromNode":"31e7abe8a1a99a0e","fromSide":"bottom","toNode":"56cc4f79ad56a7c5","toSide":"top"},
+		{"id":"baf0e5d65afd12ea","fromNode":"47f38e4a8d403654","fromSide":"bottom","toNode":"01108766225f9041","toSide":"top"},
+		{"id":"d40e98db349bbaf7","fromNode":"b79282e7848b635b","fromSide":"bottom","toNode":"78164dd889929fcb","toSide":"top"},
+		{"id":"db3ccce532a6d2ed","fromNode":"27a9b6163983846c","fromSide":"bottom","toNode":"31e7abe8a1a99a0e","toSide":"top"},
+		{"id":"c6678cec3696601d","fromNode":"424aa61921dd6345","fromSide":"bottom","toNode":"27a9b6163983846c","toSide":"right"},
+		{"id":"58de11b9db4a98d3","fromNode":"424aa61921dd6345","fromSide":"bottom","toNode":"78164dd889929fcb","toSide":"top"}
+	]
+}
